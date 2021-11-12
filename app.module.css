@@ -1,0 +1,14 @@
+.app-title {
+  color: rgba(100, 0, 0, 0.8)
+}
+.app-container {
+  height: 100vh;
+}
+.navbar-top {
+  position: absolute;
+  top: 0;
+}
+.navbar-bottom {
+  position: absolute;
+  bottom: 0;
+}
